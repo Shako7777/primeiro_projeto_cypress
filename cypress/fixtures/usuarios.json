@@ -1,0 +1,20 @@
+[
+    {
+        "email": "lucas.faria@gmail.com",
+        "fullName": " Lucas Faria",
+        "userName": "lucfa",
+        "password": "fariaslucas"
+    },
+    {
+        "email": "maria.laura@gmail.com",
+        "fullName": " Maria Laura",
+        "userName": "malau",
+        "password": "lauramaria"
+    },
+    {
+        "email": "carolina.soares@gmail.com",
+        "fullName": " Carolina Soares",
+        "userName": "casoa",
+        "password": "soarescarol"
+    }
+]
